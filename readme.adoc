@@ -1,0 +1,13 @@
+= Animating SwiftUI Applications
+Create visually stunning and engaging animations for iOS with SwiftUI
+by Stephen DeStefano and J.D. Gauchat
+
+https://www.packtpub.com/en-us/product/animating-swiftui-applications-9781803232669
+
+https://github.com/PacktPublishing/Animating-SwiftUI-Applications
+
+https://github.com/hghpublic/PacktPublishing-Animating-SwiftUI-Applications
+
+== O'Reilly
+
+https://learning.oreilly.com/library/view/animating-swiftui-applications/9781803232669/
